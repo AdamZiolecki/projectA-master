@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="projectA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/projectA_jar</output-path>
+    <root id="archive" name="projectA.jar">
+      <element id="module-output" name="projectA" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/anonymous/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/anonymous/mail.jar" path-in-jar="/" />
+      <element id="library" level="project" name="activation" />
+      <element id="library" level="project" name="mail" />
+    </root>
+  </artifact>
+</component>

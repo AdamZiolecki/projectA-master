@@ -1,0 +1,7 @@
+#pane{
+    -fx-background-image: url("D:\Users\Adam\IdeaProjects\projectA-master\src\resources\lucio.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 200 106;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
